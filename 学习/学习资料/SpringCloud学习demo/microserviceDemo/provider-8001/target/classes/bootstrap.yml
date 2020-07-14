@@ -1,0 +1,7 @@
+spring:
+  cloud:
+    config:
+      name: provider-8001
+      profile: dev
+      label: master
+      uri: http://127.0.0.1:3001

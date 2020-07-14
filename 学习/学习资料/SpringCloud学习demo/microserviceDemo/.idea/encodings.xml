@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/config-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/config-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/consumer-8001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/consumer-8001-feign" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-Eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-Eureka-7002" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservice-Eureka-7003" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microserviceapi" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/provider-8001" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/provider-8002" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/provider-hystrix" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/zuul" charset="UTF-8" />
+  </component>
+</project>

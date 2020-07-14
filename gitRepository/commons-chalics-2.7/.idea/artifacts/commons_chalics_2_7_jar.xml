@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="commons-chalics-2.7.jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/commons_chalics_2_7_jar</output-path>
+    <root id="archive" name="commons-chalics-2.7.jar" />
+  </artifact>
+</component>

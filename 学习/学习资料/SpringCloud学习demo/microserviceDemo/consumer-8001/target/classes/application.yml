@@ -1,0 +1,17 @@
+server:
+  port: 8081
+
+spring:
+  application:
+    name: microservice-consumer-8001 # 应用名称
+
+eureka:
+  client: #客户端注册进eureka服务列表内
+    service-url:
+      #defaultZone: http://localhost:7001/eureka
+      # 将该service注册到集群eureka中
+      defaultZone: http://localhost:7001/eureka/,http://localhost:7002/eureka/,http://localhost:7003/eureka/
+    ###是否需要注册到eureka上
+    register-with-eureka: false
+
+

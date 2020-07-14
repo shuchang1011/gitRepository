@@ -1,0 +1,2237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e4d022cd-9894-440f-91ae-b899e55df967" name="Default Changelist" comment="">
+      <change afterPath="D:/Workspace/activitiModeler/src/main/java/com/yunyin/activiti/editor/main/ModelEditorJsonRestResource.java" afterDir="false" />
+      <change afterPath="D:/Workspace/activitiModeler/src/main/java/com/yunyin/activiti/editor/model/ModelSaveRestResource.java" afterDir="false" />
+      <change afterPath="D:/Workspace/activitiModeler/src/main/java/com/yunyin/activiti/editor/model/StencilsetRestResource.java" afterDir="false" />
+      <change afterPath="D:/gitRepository/commons-chalics-2.7/.idea/artifacts/commons_chalics_2_7_jar.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/commons-chalics-2.7/.idea/commons-chalics-2.7.iml" afterDir="false" />
+      <change afterPath="D:/gitRepository/commons-chalics-2.7/.idea/misc.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/commons-chalics-2.7/.idea/modules.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/commons-chalics-2.7/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/artifacts/jeecg_bpm_qiye_war.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/artifacts/jeecg_bpm_qiye_war_exploded.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__ant_ant_1_6_5.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__axis_axis_1_4.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__axis_axis_wsdl4j_1_5_1.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__com_alibaba_druid_1_1_9.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__com_alibaba_fastjson_1_2_6.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__com_baomidou_kisso_3_6_11.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__com_belerweb_pinyin4j_2_5_1.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__com_fasterxml_classmate_1_3_1.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_5_0.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_5_1.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_5_1.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__com_github_virtuald_curvesapi_1_04.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__com_google_code_gson_gson_2_2_4.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__com_google_guava_guava_18_0.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__com_google_protobuf_protobuf_java_2_6_0.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__com_hynnet_jacob_1_18.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__com_ifrp_fr_server_6_5.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__com_ifrp_fr_third_6_5.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__com_mchange_c3p0_0_9_5_2.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__com_mchange_mchange_commons_java_0_2_11.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__com_microsoft_sqlserver_sqljdbc4_4_0.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__com_oracle_ojdbc14_10_2_0_5_0.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__com_thoughtworks_xstream_xstream_1_4_4.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__com_zaxxer_HikariCP_java6_2_3_13.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_7_0.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__commons_chain_commons_chain_1_1.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__commons_codec_commons_codec_1_9.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__commons_collections_commons_collections_3_2_1.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__commons_dbcp_commons_dbcp_1_4.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__commons_digester_commons_digester_1_8.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__commons_discovery_commons_discovery_0_2.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_2_1.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__commons_httpclient_commons_httpclient_3_0_1.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__commons_io_commons_io_1_3_2.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__commons_logging_commons_logging_1_0_4.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__commons_net_commons_net_3_6.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__commons_pool_commons_pool_1_6.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__commons_validator_commons_validator_1_3_1.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__fr_opensagres_xdocreport_org_apache_poi_xwpf_converter_core_1_0_6.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__fr_opensagres_xdocreport_org_apache_poi_xwpf_converter_xhtml_1_0_6.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__fr_opensagres_xdocreport_xdocreport_1_0_6.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__io_jsonwebtoken_jjwt_0_9_0.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__io_springfox_springfox_core_2_4_0.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__io_springfox_springfox_schema_2_4_0.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__io_springfox_springfox_spi_2_4_0.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__io_springfox_springfox_spring_web_2_4_0.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__io_springfox_springfox_swagger2_2_4_0.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__io_springfox_springfox_swagger_common_2_4_0.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__io_swagger_swagger_annotations_1_5_6.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__io_swagger_swagger_models_1_5_6.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__javax_activation_activation_1_1.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__javax_mail_mail_1_4_1.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_0_1.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__javax_servlet_jsp_api_2_0.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__javax_servlet_jstl_1_2.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__javax_validation_validation_api_1_0_0_GA.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__joda_time_joda_time_2_1.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__junit_junit_4_7.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__log4j_log4j_1_2_16.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_11.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__net_sf_barcode4j_barcode4j_light_2_0.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__net_sf_ehcache_ehcache_core_2_4_3.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__net_sf_ezmorph_ezmorph_1_0_3.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__net_sf_json_lib_json_lib_jdk15_2_1.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__opensymphony_ognl_2_6_11.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__org_activiti_activiti_bpmn_converter_5_15_1.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__org_activiti_activiti_bpmn_model_5_15_1.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__org_activiti_activiti_engine_5_15_1.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__org_activiti_activiti_process_validation_5_15_1.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__org_activiti_activiti_spring_5_15_1.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__org_apache_avalon_framework_avalon_framework_api_4_3_1.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__org_apache_avalon_framework_avalon_framework_impl_4_3_1.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__org_apache_axis_axis_jaxrpc_1_4.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__org_apache_axis_axis_saaj_1_4.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__org_apache_commons_commons_chalics_2_7.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__org_apache_commons_commons_collections4_4_1.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__org_apache_commons_commons_email_1_2.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_1.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_4_2.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__org_apache_httpcomponents_httpasyncclient_4_1_1.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_1.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_3.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_nio_4_4_4.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_5_1.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__org_apache_poi_ooxml_schemas_1_3.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__org_apache_poi_poi_3_17.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__org_apache_poi_poi_ooxml_3_17.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__org_apache_poi_poi_ooxml_schemas_3_17.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__org_apache_poi_poi_scratchpad_3_17.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__org_apache_velocity_velocity_1_6_4.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__org_apache_velocity_velocity_tools_2_0.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__org_apache_xmlbeans_xmlbeans_2_6_0.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__org_apache_xmlgraphics_batik_anim_1_7.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__org_apache_xmlgraphics_batik_awt_util_1_7.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__org_apache_xmlgraphics_batik_bridge_1_7.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__org_apache_xmlgraphics_batik_codec_1_7.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__org_apache_xmlgraphics_batik_css_1_7.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__org_apache_xmlgraphics_batik_dom_1_7.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__org_apache_xmlgraphics_batik_ext_1_7.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__org_apache_xmlgraphics_batik_gvt_1_7.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__org_apache_xmlgraphics_batik_js_1_7.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__org_apache_xmlgraphics_batik_parser_1_7.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__org_apache_xmlgraphics_batik_script_1_7.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__org_apache_xmlgraphics_batik_svg_dom_1_7.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__org_apache_xmlgraphics_batik_svggen_1_7.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__org_apache_xmlgraphics_batik_transcoder_1_7.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__org_apache_xmlgraphics_batik_util_1_7.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__org_apache_xmlgraphics_batik_xml_1_7.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__org_apache_xmlgraphics_fop_0_94.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__org_apache_xmlgraphics_xmlgraphics_commons_1_2.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__org_artofsolving_jodconverter_3_0_beta_4.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__org_aspectj_aspectjrt_1_6_9.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_4.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__org_codehaus_groovy_groovy_2_3_3.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_8_4.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_8_4.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__org_freemarker_freemarker_2_3_19.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__org_hamcrest_hamcrest_all_1_3.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_4_0_1_Final.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__org_hibernate_hibernate_core_4_1_0_Final.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__org_hibernate_hibernate_ehcache_4_1_0_Final.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__org_hibernate_hibernate_validator_4_2_0_Final.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__org_hibernate_hibernate_validator_annotation_processor_4_2_0_Final.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__org_hibernate_javax_persistence_hibernate_jpa_2_0_api_1_0_1_Final.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__org_javassist_javassist_3_15_0_GA.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_1_0_CR2.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__org_jboss_spec_javax_transaction_jboss_transaction_api_1_1_spec_1_0_0_Final.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__org_jeecgframework_codegenerate_3_6_4.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__org_jeecgframework_jeasypoi_base_2_2_0.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__org_jeecgframework_jeasypoi_web_2_2_0.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__org_jeecgframework_jeecg_common_plugin_ui_1_0_0.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__org_jeecgframework_minidao_pe_1_6_7.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__org_jeecgframework_p3_jeecg_p3_biz_chat_1_0_5.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__org_jeecgframework_p3_jeecg_p3_biz_demo_1_0_2.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__org_jeecgframework_p3_jeecg_p3_biz_mail_1_0_0.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__org_jeecgframework_p3_jeecg_p3_core_1_0_0.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__org_jeecgframework_p3_jeecg_p3_core_api_1_0_0.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__org_jeecgframework_p3_jeecg_p3_core_ui_1_0_0.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__org_jodd_jodd_3_3_7.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__org_jsoup_jsoup_1_8_3.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__org_mybatis_mybatis_3_2_5.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__org_openoffice_juh_3_2_1.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__org_openoffice_jurt_3_2_1.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__org_openoffice_ridl_3_2_1.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__org_openoffice_unoil_3_2_1.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__org_quartz_scheduler_quartz_2_3_0.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_6.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__org_slf4j_slf4j_api_1_6_1.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_6_1.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__org_springframework_data_spring_data_redis_1_6_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_core_1_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_metadata_1_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__org_springframework_spring_aop_4_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__org_springframework_spring_aspects_4_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__org_springframework_spring_beans_4_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__org_springframework_spring_context_4_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__org_springframework_spring_context_support_4_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__org_springframework_spring_core_4_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__org_springframework_spring_expression_4_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__org_springframework_spring_jdbc_4_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__org_springframework_spring_messaging_4_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__org_springframework_spring_orm_4_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__org_springframework_spring_test_4_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__org_springframework_spring_tx_4_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__org_springframework_spring_web_4_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__org_springframework_spring_webmvc_4_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__org_springframework_spring_websocket_4_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__oro_oro_2_0_8.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__redis_clients_jedis_2_9_0.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__xalan_xalan_2_6_0.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__xerces_xercesImpl_2_7_1.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__xml_apis_xml_apis_1_3_04.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__xml_apis_xml_apis_ext_1_3_04.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__xmlpull_xmlpull_1_1_3_1.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/libraries/Maven__xpp3_xpp3_min_1_1_4c.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/modules.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/jeecg-bpm-qiye.iml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/src/main/java/org/apache/commons/icore.java" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/src/main/java/org/apache/commons/lang/CommonRandomUtil.java" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8 - 副本/src/main/java/org/apache/commons/lang/StringUtil.java" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/artifacts/jeecg_bpm_qiye_war.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/artifacts/jeecg_bpm_qiye_war_exploded.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__ant_ant_1_6_5.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__com_alibaba_druid_1_1_9.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__com_alibaba_fastjson_1_2_6.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__com_baomidou_kisso_3_6_11.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__com_belerweb_pinyin4j_2_5_1.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__com_fasterxml_classmate_1_3_1.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_5_0.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_5_1.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_5_1.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__com_google_code_gson_gson_2_2_4.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__com_google_guava_guava_18_0.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__com_hynnet_jacob_1_18.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__com_ifrp_fr_server_6_5.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__com_ifrp_fr_third_6_5.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__com_mchange_c3p0_0_9_5_2.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__com_mchange_mchange_commons_java_0_2_11.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__com_microsoft_sqlserver_sqljdbc4_4_0.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__com_oracle_ojdbc14_10_2_0_5_0.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__com_thoughtworks_xstream_xstream_1_4_4.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__com_zaxxer_HikariCP_java6_2_3_13.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_7_0.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__commons_chain_commons_chain_1_1.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__commons_codec_commons_codec_1_9.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__commons_collections_commons_collections_3_2_1.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__commons_dbcp_commons_dbcp_1_4.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__commons_digester_commons_digester_1_8.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_2_1.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__commons_httpclient_commons_httpclient_3_0_1.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__commons_io_commons_io_1_3_2.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__commons_logging_commons_logging_1_1_3.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__commons_net_commons_net_3_6.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__commons_pool_commons_pool_1_6.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__commons_validator_commons_validator_1_3_1.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__io_jsonwebtoken_jjwt_0_9_0.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__io_springfox_springfox_core_2_4_0.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__io_springfox_springfox_schema_2_4_0.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__io_springfox_springfox_spi_2_4_0.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__io_springfox_springfox_spring_web_2_4_0.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__io_springfox_springfox_swagger2_2_4_0.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__io_springfox_springfox_swagger_common_2_4_0.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__io_swagger_swagger_annotations_1_5_6.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__io_swagger_swagger_models_1_5_6.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__javax_activation_activation_1_1.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__javax_mail_mail_1_4_1.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_0_1.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__javax_servlet_jsp_api_2_0.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__javax_servlet_jstl_1_2.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__javax_validation_validation_api_1_0_0_GA.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__joda_time_joda_time_2_1.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__junit_junit_4_7.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__log4j_log4j_1_2_16.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__net_sf_ehcache_ehcache_core_2_4_3.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__net_sf_ezmorph_ezmorph_1_0_3.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__net_sf_json_lib_json_lib_jdk15_2_1.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__opensymphony_ognl_2_6_11.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__org_activiti_activiti_bpmn_converter_5_15_1.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__org_activiti_activiti_bpmn_model_5_15_1.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__org_activiti_activiti_engine_5_15_1.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__org_activiti_activiti_process_validation_5_15_1.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__org_activiti_activiti_spring_5_15_1.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__org_apache_avalon_framework_avalon_framework_api_4_3_1.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__org_apache_avalon_framework_avalon_framework_impl_4_3_1.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__org_apache_commons_commons_email_1_2.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_1.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__org_apache_commons_commons_langdes_2_7.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_4_2.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_1.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_3.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_nio_4_1_3.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_5_1.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__org_apache_poi_poi_3_9.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__org_apache_poi_poi_ooxml_3_9.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__org_apache_poi_poi_ooxml_schemas_3_9.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__org_apache_poi_poi_scratchpad_3_9.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__org_apache_velocity_velocity_1_6_4.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__org_apache_velocity_velocity_tools_2_0.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__org_apache_xmlbeans_xmlbeans_2_3_0.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__org_apache_xmlgraphics_batik_anim_1_7.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__org_apache_xmlgraphics_batik_awt_util_1_7.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__org_apache_xmlgraphics_batik_bridge_1_7.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__org_apache_xmlgraphics_batik_codec_1_7.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__org_apache_xmlgraphics_batik_css_1_7.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__org_apache_xmlgraphics_batik_dom_1_7.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__org_apache_xmlgraphics_batik_ext_1_7.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__org_apache_xmlgraphics_batik_gvt_1_7.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__org_apache_xmlgraphics_batik_js_1_7.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__org_apache_xmlgraphics_batik_parser_1_7.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__org_apache_xmlgraphics_batik_script_1_7.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__org_apache_xmlgraphics_batik_svg_dom_1_7.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__org_apache_xmlgraphics_batik_svggen_1_7.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__org_apache_xmlgraphics_batik_transcoder_1_7.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__org_apache_xmlgraphics_batik_util_1_7.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__org_apache_xmlgraphics_batik_xml_1_7.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__org_apache_xmlgraphics_fop_0_94.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__org_apache_xmlgraphics_xmlgraphics_commons_1_2.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__org_artofsolving_jodconverter_3_0_beta_4.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__org_aspectj_aspectjrt_1_6_9.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_4.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__org_codehaus_groovy_groovy_2_3_3.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_8_4.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_8_4.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__org_freemarker_freemarker_2_3_19.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__org_hamcrest_hamcrest_all_1_3.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_4_0_1_Final.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__org_hibernate_hibernate_core_4_1_0_Final.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__org_hibernate_hibernate_ehcache_4_1_0_Final.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__org_hibernate_hibernate_validator_4_2_0_Final.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__org_hibernate_hibernate_validator_annotation_processor_4_2_0_Final.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__org_hibernate_javax_persistence_hibernate_jpa_2_0_api_1_0_1_Final.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__org_javassist_javassist_3_15_0_GA.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_1_0_CR2.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__org_jboss_spec_javax_transaction_jboss_transaction_api_1_1_spec_1_0_0_Final.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__org_jeecgframework_codegenerate_3_6_4.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__org_jeecgframework_jeasypoi_base_2_2_0.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__org_jeecgframework_jeasypoi_web_2_2_0.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__org_jeecgframework_jeecg_common_plugin_ui_1_0_0.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__org_jeecgframework_minidao_pe_1_6_7.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__org_jeecgframework_p3_jeecg_p3_biz_chat_1_0_5.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__org_jeecgframework_p3_jeecg_p3_biz_demo_1_0_2.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__org_jeecgframework_p3_jeecg_p3_biz_mail_1_0_0.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__org_jeecgframework_p3_jeecg_p3_core_1_0_0.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__org_jeecgframework_p3_jeecg_p3_core_api_1_0_0.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__org_jeecgframework_p3_jeecg_p3_core_ui_1_0_0.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__org_jodd_jodd_3_3_7.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__org_jsoup_jsoup_1_8_3.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__org_mybatis_mybatis_3_2_5.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__org_openoffice_juh_3_2_1.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__org_openoffice_jurt_3_2_1.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__org_openoffice_ridl_3_2_1.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__org_openoffice_unoil_3_2_1.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__org_quartz_scheduler_quartz_2_3_0.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_6.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__org_slf4j_slf4j_api_1_6_1.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_6_1.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__org_springframework_data_spring_data_redis_1_6_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_core_1_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_metadata_1_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__org_springframework_spring_aop_4_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__org_springframework_spring_aspects_4_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__org_springframework_spring_beans_4_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__org_springframework_spring_context_4_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__org_springframework_spring_context_support_4_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__org_springframework_spring_core_4_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__org_springframework_spring_expression_4_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__org_springframework_spring_jdbc_4_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__org_springframework_spring_messaging_4_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__org_springframework_spring_orm_4_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__org_springframework_spring_test_4_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__org_springframework_spring_tx_4_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__org_springframework_spring_web_4_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__org_springframework_spring_webmvc_4_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__org_springframework_spring_websocket_4_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__oro_oro_2_0_8.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__redis_clients_jedis_2_9_0.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__xalan_xalan_2_6_0.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__xerces_xercesImpl_2_7_1.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__xml_apis_xml_apis_1_3_04.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__xml_apis_xml_apis_ext_1_3_04.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__xmlpull_xmlpull_1_1_3_1.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/libraries/Maven__xpp3_xpp3_min_1_1_4c.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/.idea/modules.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/jeecg-bpm-framework-QY-3.8/jeecg-bpm-qiye.iml" afterDir="false" />
+      <change afterPath="D:/gitRepository/myjavatest/.idea/artifacts/myjavatest_jar.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/myjavatest/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/artifacts/jeecg_bpm_qiye_war.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/artifacts/jeecg_bpm_qiye_war_exploded.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__ant_ant_1_6_5.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__com_alibaba_druid_1_1_9.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__com_alibaba_fastjson_1_2_6.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__com_baomidou_kisso_3_6_11.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__com_belerweb_pinyin4j_2_5_1.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__com_fasterxml_classmate_1_3_1.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_5_0.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_5_1.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_5_1.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__com_google_code_gson_gson_2_2_4.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__com_google_guava_guava_18_0.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__com_google_protobuf_protobuf_java_2_6_0.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__com_hynnet_jacob_1_18.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__com_ifrp_fr_third_6_5.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__com_mchange_c3p0_0_9_5_2.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__com_mchange_mchange_commons_java_0_2_11.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__com_microsoft_sqlserver_sqljdbc4_4_0.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__com_oracle_ojdbc14_10_2_0_5_0.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__com_thoughtworks_xstream_xstream_1_4_4.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__com_zaxxer_HikariCP_java6_2_3_13.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_7_0.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__commons_chain_commons_chain_1_1.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__commons_codec_commons_codec_1_9.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__commons_collections_commons_collections_3_2_1.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__commons_dbcp_commons_dbcp_1_4.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__commons_digester_commons_digester_1_8.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_2_1.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__commons_httpclient_commons_httpclient_3_0_1.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__commons_io_commons_io_1_3_2.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__commons_logging_commons_logging_1_1_3.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__commons_net_commons_net_3_6.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__commons_pool_commons_pool_1_6.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__commons_validator_commons_validator_1_3_1.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__io_jsonwebtoken_jjwt_0_9_0.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__io_springfox_springfox_core_2_4_0.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__io_springfox_springfox_schema_2_4_0.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__io_springfox_springfox_spi_2_4_0.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__io_springfox_springfox_spring_web_2_4_0.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__io_springfox_springfox_swagger2_2_4_0.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__io_springfox_springfox_swagger_common_2_4_0.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__io_swagger_swagger_annotations_1_5_6.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__io_swagger_swagger_models_1_5_6.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__javax_activation_activation_1_1.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__javax_mail_mail_1_4_1.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_0_1.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__javax_servlet_jsp_api_2_0.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__javax_servlet_jstl_1_2.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__javax_validation_validation_api_1_0_0_GA.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__joda_time_joda_time_2_1.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__junit_junit_4_7.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__log4j_log4j_1_2_16.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__mysql_mysql_connector_java_8_0_11.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__net_sf_ehcache_ehcache_core_2_4_3.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__net_sf_ezmorph_ezmorph_1_0_3.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__net_sf_json_lib_json_lib_jdk15_2_1.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__opensymphony_ognl_2_6_11.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__org_activiti_activiti_bpmn_converter_5_15_1.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__org_activiti_activiti_bpmn_model_5_15_1.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__org_activiti_activiti_engine_5_15_1.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__org_activiti_activiti_process_validation_5_15_1.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__org_activiti_activiti_spring_5_15_1.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__org_apache_avalon_framework_avalon_framework_api_4_3_1.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__org_apache_avalon_framework_avalon_framework_impl_4_3_1.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__org_apache_commons_commons_email_1_2.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_1.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_4_2.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_1.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_3.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_nio_4_1_3.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_5_1.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__org_apache_poi_poi_3_9.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__org_apache_poi_poi_ooxml_3_9.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__org_apache_poi_poi_ooxml_schemas_3_9.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__org_apache_poi_poi_scratchpad_3_9.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__org_apache_velocity_velocity_1_6_4.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__org_apache_velocity_velocity_tools_2_0.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__org_apache_xmlbeans_xmlbeans_2_3_0.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__org_apache_xmlgraphics_batik_anim_1_7.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__org_apache_xmlgraphics_batik_awt_util_1_7.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__org_apache_xmlgraphics_batik_bridge_1_7.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__org_apache_xmlgraphics_batik_codec_1_7.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__org_apache_xmlgraphics_batik_css_1_7.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__org_apache_xmlgraphics_batik_dom_1_7.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__org_apache_xmlgraphics_batik_ext_1_7.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__org_apache_xmlgraphics_batik_gvt_1_7.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__org_apache_xmlgraphics_batik_js_1_7.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__org_apache_xmlgraphics_batik_parser_1_7.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__org_apache_xmlgraphics_batik_script_1_7.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__org_apache_xmlgraphics_batik_svg_dom_1_7.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__org_apache_xmlgraphics_batik_svggen_1_7.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__org_apache_xmlgraphics_batik_transcoder_1_7.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__org_apache_xmlgraphics_batik_util_1_7.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__org_apache_xmlgraphics_batik_xml_1_7.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__org_apache_xmlgraphics_fop_0_94.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__org_apache_xmlgraphics_xmlgraphics_commons_1_2.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__org_artofsolving_jodconverter_3_0_beta_4.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__org_aspectj_aspectjrt_1_6_9.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_4.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__org_codehaus_groovy_groovy_2_3_3.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__org_codehaus_jackson_jackson_core_asl_1_8_4.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__org_codehaus_jackson_jackson_mapper_asl_1_8_4.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__org_freemarker_freemarker_2_3_19.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__org_hamcrest_hamcrest_all_1_3.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_4_0_1_Final.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__org_hibernate_hibernate_core_4_1_0_Final.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__org_hibernate_hibernate_ehcache_4_1_0_Final.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__org_hibernate_hibernate_validator_4_2_0_Final.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__org_hibernate_hibernate_validator_annotation_processor_4_2_0_Final.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__org_hibernate_javax_persistence_hibernate_jpa_2_0_api_1_0_1_Final.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__org_javassist_javassist_3_15_0_GA.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_1_0_CR2.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__org_jboss_spec_javax_transaction_jboss_transaction_api_1_1_spec_1_0_0_Final.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__org_jeecgframework_codegenerate_3_6_4.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__org_jeecgframework_jeasypoi_base_2_2_0.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__org_jeecgframework_jeasypoi_web_2_2_0.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__org_jeecgframework_jeecg_common_plugin_ui_1_0_0.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__org_jeecgframework_minidao_pe_1_6_7.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__org_jeecgframework_p3_jeecg_p3_biz_chat_1_0_5.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__org_jeecgframework_p3_jeecg_p3_biz_demo_1_0_2.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__org_jeecgframework_p3_jeecg_p3_biz_mail_1_0_0.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__org_jeecgframework_p3_jeecg_p3_core_1_0_0.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__org_jeecgframework_p3_jeecg_p3_core_api_1_0_0.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__org_jeecgframework_p3_jeecg_p3_core_ui_1_0_0.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__org_jodd_jodd_3_3_7.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__org_jsoup_jsoup_1_8_3.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__org_mybatis_mybatis_3_2_5.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__org_openoffice_juh_3_2_1.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__org_openoffice_jurt_3_2_1.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__org_openoffice_ridl_3_2_1.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__org_openoffice_unoil_3_2_1.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__org_quartz_scheduler_quartz_2_3_0.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_6.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__org_slf4j_slf4j_api_1_6_1.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_6_1.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__org_springframework_data_spring_data_redis_1_6_2_RELEASE.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_core_1_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_metadata_1_2_0_RELEASE.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__org_springframework_spring_aop_4_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__org_springframework_spring_aspects_4_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__org_springframework_spring_beans_4_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__org_springframework_spring_context_4_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__org_springframework_spring_context_support_4_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__org_springframework_spring_core_4_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__org_springframework_spring_expression_4_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__org_springframework_spring_jdbc_4_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__org_springframework_spring_messaging_4_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__org_springframework_spring_orm_4_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__org_springframework_spring_test_4_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__org_springframework_spring_tx_4_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__org_springframework_spring_web_4_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__org_springframework_spring_webmvc_4_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__org_springframework_spring_websocket_4_0_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__oro_oro_2_0_8.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__redis_clients_jedis_2_9_0.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__stax_stax_api_1_0_1.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__xalan_xalan_2_6_0.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__xerces_xercesImpl_2_7_1.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__xml_apis_xml_apis_1_3_04.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__xml_apis_xml_apis_ext_1_3_04.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__xmlpull_xmlpull_1_1_3_1.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/libraries/Maven__xpp3_xpp3_min_1_1_4c.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/misc.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/modules.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/jeecg-bpm-qiye.iml" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/src/main/bpm-java/org/jeecgframework/workflow/controller/process/ActivitiController.java" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/src/main/bpm-java/org/jeecgframework/workflow/controller/process/DataBaseController.java" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/src/main/bpm-java/org/jeecgframework/workflow/controller/process/DataProcessController.java" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/src/main/bpm-java/org/jeecgframework/workflow/controller/process/ProcessInstanceController.java" afterDir="false" />
+      <change afterPath="D:/gitRepository/world - workflow/src/main/bpm-java/org/jeecgframework/workflow/controller/process/TaskController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Redis学习/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Redis学习/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Redis学习/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Redis学习/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-client/configclient.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-client/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-client/src/main/java/com/microservice/Configclient_APP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-client/src/main/java/com/microservice/controller/ConfigController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-client/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-client/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-server/configserver.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-server/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-server/src/main/java/com/microservice/Configserver_APP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-server/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/consumer-8001-feign/consumer8001feign.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/consumer-8001-feign/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/consumer-8001-feign/src/main/java/com/microservice/Consumer8001Feign_APP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/consumer-8001-feign/src/main/java/com/microservice/controller/DeptController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/consumer-8001-feign/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/consumer-8001/consumer8001.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/consumer-8001/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/consumer-8001/src/main/java/com/microservice/Consumer8001_APP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/consumer-8001/src/main/java/com/microservice/config/ConfigBeans.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/consumer-8001/src/main/java/com/microservice/controller/DeptController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/consumer-8001/src/main/java/com/microservice/irules/RandomRule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/consumer-8001/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice-Eureka-7002/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice-Eureka-7002/src/main/java/com/microservice/Eureka7002_APP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice-Eureka-7002/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice-Eureka-7002/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice-Eureka-7002/target/classes/com/microservice/Eureka7001_APP.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice-Eureka-7003/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice-Eureka-7003/src/main/java/com/microservice/Eureka7003_APP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice-Eureka-7003/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice-Eureka-7003/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice-Eureka-7003/target/classes/com/microservice/Eureka7001_APP.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice-Eureka/src/main/java/com/microservice/Eureka7001_APP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice-Eureka/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microservice-Eureka/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microserviceapi/src/main/java/com/microservice/service/DeptClientFallbackFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/microserviceapi/src/main/java/com/microservice/service/DeptClientService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/provider-8001/provider8001.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/provider-8001/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/provider-8001/src/main/resources/mybatis/mapper/DeptMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/provider-8001/src/main/resources/mybatis/mybatis.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/provider-8002/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/provider-8002/src/main/java/com/microservice/controller/DeptController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/provider-8002/src/main/java/com/microservice/dao/DeptDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/provider-8002/src/main/java/com/microservice/service/DeptService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/provider-8002/src/main/java/com/microservice/service/DeptServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/provider-8002/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/provider-8002/src/main/resources/mybatis/mapper/DeptMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/provider-8002/src/main/resources/mybatis/mybatis.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/provider-hystrix/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/provider-hystrix/providerhystrix.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/provider-hystrix/src/main/java/com/microservice/ProviderHystrix_APP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/provider-hystrix/src/main/java/com/microservice/controller/DeptController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/provider-hystrix/src/main/java/com/microservice/dao/DeptDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/provider-hystrix/src/main/java/com/microservice/service/DeptService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/provider-hystrix/src/main/java/com/microservice/service/DeptServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/provider-hystrix/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/provider-hystrix/src/main/resources/mybatis/mapper/DeptMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/provider-hystrix/src/main/resources/mybatis/mybatis.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zuul/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zuul/src/main/java/com/microservice/ZuulGateway_APP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zuul/src/main/java/com/microservice/filter/zuulFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zuul/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zuul/zuul.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Vue学习/myvue/src/components/Content.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Vue学习/myvue/src/router/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Vue学习/myvue/src/view/main.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Vue学习/vue-practice/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Vue学习/vue-practice/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Vue学习/vue-practice/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Vue学习/vue-practice/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Vue学习/vue-practice/.idea/vue-practice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Vue学习/vue-practice/redisspringboot/redisspringboot.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Vue学习/vue-practice/vue-first/a.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Vue学习/vue-practice/vue-first/practice1/axios.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Vue学习/vue-practice/vue-first/practice1/component.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Vue学习/vue-practice/vue-first/practice1/computed.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Vue学习/vue-practice/vue-first/practice1/data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Vue学习/vue-practice/vue-first/practice1/slot.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Vue学习/vue-practice/vue-first/practice1/v-bind.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Vue学习/vue-practice/vue-first/practice1/v-model.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Vue学习/vue-practice/vue-first/practice1/v-on.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Vue学习/webpack-study/dist/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Vue学习/webpack-study/modules/hello.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Vue学习/webpack-study/modules/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Vue学习/webpack-study/webpack.config.js" afterDir="false" />
+      <change afterPath="D:/微翰/rq/.idea/misc.xml" afterDir="false" />
+      <change afterPath="D:/微翰/rq/.idea/modules.xml" afterDir="false" />
+      <change afterPath="D:/微翰/rq/.idea/rq.iml" afterDir="false" />
+      <change afterPath="D:/微翰/rq/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/eureka/target/" />
+    <ignored path="$PROJECT_DIR$/microserviceapi/target/" />
+    <ignored path="$PROJECT_DIR$/microservice-Eureka/target/" />
+    <ignored path="$PROJECT_DIR$/provider-8001/target/" />
+    <ignored path="$PROJECT_DIR$/provider-8002/target/" />
+    <ignored path="$PROJECT_DIR$/consumer-8001/target/" />
+    <ignored path="$PROJECT_DIR$/microservice-Eureka-7002/target/" />
+    <ignored path="$PROJECT_DIR$/microservice-Eureka-7003/target/" />
+    <ignored path="$PROJECT_DIR$/consumer-feign/target/" />
+    <ignored path="$PROJECT_DIR$/consumer-8001-feign/target/" />
+    <ignored path="$PROJECT_DIR$/provider-hystrix/target/" />
+    <ignored path="$PROJECT_DIR$/zuul/target/" />
+    <ignored path="$PROJECT_DIR$/config-server/target/" />
+    <ignored path="$PROJECT_DIR$/config-client/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config-server/src/main/java/com/microservice/Configserver_APP.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/microservice-Eureka/src/main/java/com/microservice/Eureka7001_APP.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/provider-8001/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/provider-8001/src/main/java/com/microservice/Provider8001_APP.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="8" column="19" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/provider-8001/src/main/resources/bootstrap.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="110">
+              <caret line="5" column="19" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config-client/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/microservice-Eureka/src/main/resources/bootstrap.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/microservice-Eureka/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="66">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config-client/src/main/java/com/microservice/Configclient_APP.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config-client/src/main/resources/bootstrap.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>lomb</find>
+      <find>feign</find>
+      <find>config</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="D:/" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/provider-8002/src/main/resources/mybatis/mapper/DeptMapper.xml" />
+        <option value="$PROJECT_DIR$/provider-8002/src/main/java/com/microservice/Provider8002_APP.java" />
+        <option value="$PROJECT_DIR$/provider-8001/src/main/java/com/microservice/Provider8001_APP.java" />
+        <option value="$PROJECT_DIR$/consumer-8001/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-Eureka-7002/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-Eureka-7002/src/main/java/com/microservice/Eureka7002_APP.java" />
+        <option value="$PROJECT_DIR$/microservice-Eureka-7003/pom.xml" />
+        <option value="$PROJECT_DIR$/consumer-8001/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/microservice-Eureka-7002/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/microservice-Eureka-7003/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/provider-8002/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/provider-8001/src/main/java/com/microservice/controller/DeptController.java" />
+        <option value="$PROJECT_DIR$/provider-8002/src/main/java/com/microservice/controller/DeptController.java" />
+        <option value="$PROJECT_DIR$/consumer-8001/src/main/java/com/microservice/irules/RandomRule.java" />
+        <option value="$PROJECT_DIR$/consumer-8001/src/main/java/com/microservice/config/ConfigBeans.java" />
+        <option value="$PROJECT_DIR$/consumer-8001/src/main/java/com/microservice/controller/DeptController.java" />
+        <option value="$PROJECT_DIR$/consumer-feign/pom.xml" />
+        <option value="$PROJECT_DIR$/consumer-feign/src/main/java/com/microservice/ConsumerFeign_APP.java" />
+        <option value="$PROJECT_DIR$/consumer-feign/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/consumer-8001/src/main/java/com/microservice/Consumer8001_APP.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/consumer-8001-feign/src/main/java/DeptController.java" />
+        <option value="$PROJECT_DIR$/consumer-8001-feign/pom.xml" />
+        <option value="$PROJECT_DIR$/consumer-8001-feign/src/main/java/com/microservice/Consumer8001Feign_APP.java" />
+        <option value="$PROJECT_DIR$/consumer-8001-feign/src/main/java/com/microservice/controller/DeptController.java" />
+        <option value="$PROJECT_DIR$/provider-hystrix/src/main/java/microservice/dao/DeptDao.java" />
+        <option value="$PROJECT_DIR$/provider-hystrix/src/main/java/microservice/controller/DeptController.java" />
+        <option value="$PROJECT_DIR$/provider-hystrix/src/main/java/microservice/ProviderHystrix_APP.java" />
+        <option value="$PROJECT_DIR$/provider-hystrix/src/main/java/com/microservice/service/DeptServiceImpl.java" />
+        <option value="$PROJECT_DIR$/provider-hystrix/src/main/resources/mybatis/mapper/DeptMapper.xml" />
+        <option value="$PROJECT_DIR$/provider-8001/src/main/resources/mybatis/mapper/DeptMapper.xml" />
+        <option value="$PROJECT_DIR$/provider-hystrix/pom.xml" />
+        <option value="$PROJECT_DIR$/provider-hystrix/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/microserviceapi/src/main/java/com/microservice/service/DeptClientService.java" />
+        <option value="$PROJECT_DIR$/consumer-8001-feign/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/microserviceapi/src/main/java/com/microservice/service/DeptClientFallbackFactory.java" />
+        <option value="$PROJECT_DIR$/zuul/pom.xml" />
+        <option value="$PROJECT_DIR$/zuul/src/main/java/com/microservice/ZuulGateway_APP.java" />
+        <option value="$PROJECT_DIR$/zuul/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/zuul/src/main/java/com/microservice/filter/zuulFilter.java" />
+        <option value="$PROJECT_DIR$/config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/config-server/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/config-server/src/main/java/com/microservice/Configserver_APP.java" />
+        <option value="$PROJECT_DIR$/config-client/pom.xml" />
+        <option value="$PROJECT_DIR$/config-client/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/config-client/src/main/java/com/microservice/Configclient_APP.java" />
+        <option value="$PROJECT_DIR$/config-client/src/main/resources/bootstrap.yml" />
+        <option value="$PROJECT_DIR$/config-client/src/main/java/com/microservice/controller/ConfigController.java" />
+        <option value="$PROJECT_DIR$/microservice-Eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/microservice-Eureka/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/provider-8001/src/main/resources/application.yml" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="width" value="980" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="microservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microserviceDemo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microserviceDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="config-client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microserviceDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="config-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microserviceDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="config-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microserviceDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="config-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microserviceDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="config-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="microservice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microserviceDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="config-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="microservice" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microserviceDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="config-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microserviceDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="config-server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microserviceDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="config-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microserviceDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="config-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microserviceDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="config-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microserviceDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="config-server" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="microservice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microserviceDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="consumer-8001" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microserviceDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="consumer-8001" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microserviceDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="consumer-8001" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microserviceDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="consumer-8001" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microserviceDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="consumer-8001" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="microservice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microserviceDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="consumer-8001" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="microservice" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microserviceDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="consumer-8001" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microserviceDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="consumer-8001-feign" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microserviceDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="consumer-8001-feign" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microserviceDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="consumer-8001-feign" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microserviceDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="consumer-8001-feign" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microserviceDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="consumer-8001-feign" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="microservice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microserviceDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="consumer-8001-feign" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="microservice" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microserviceDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="consumer-8001-feign" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microserviceDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="microservice-Eureka" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microserviceDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="microservice-Eureka" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microserviceDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="microservice-Eureka" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microserviceDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="microservice-Eureka" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microserviceDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="microservice-Eureka" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="microservice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microserviceDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="microservice-Eureka" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microserviceDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="microservice-Eureka-7002" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microserviceDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="microservice-Eureka-7002" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microserviceDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="microservice-Eureka-7002" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microserviceDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="microservice-Eureka-7002" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microserviceDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="microservice-Eureka-7002" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="microservice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microserviceDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="microservice-Eureka-7002" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microserviceDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="microservice-Eureka-7003" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microserviceDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="microservice-Eureka-7003" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microserviceDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="microservice-Eureka-7003" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microserviceDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="microservice-Eureka-7003" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microserviceDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="microservice-Eureka-7003" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microserviceDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="microserviceapi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microserviceDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="microserviceapi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microserviceDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="microserviceapi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microserviceDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="microserviceapi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microserviceDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="microserviceapi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="microservice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microserviceDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="microserviceapi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="microservice" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microserviceDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="provider-8001" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microserviceDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="provider-8001" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microserviceDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="provider-8001" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microserviceDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="provider-8001" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microserviceDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="provider-8001" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="microservice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microserviceDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="provider-8001" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="microservice" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microserviceDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="provider-8001" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="microservice" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microserviceDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="provider-8001" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="microservice" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microserviceDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="provider-8001" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microserviceDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="provider-8001" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="mybatis" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microserviceDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="provider-8001" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microserviceDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="provider-8001" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microserviceDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="provider-8002" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microserviceDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="provider-8002" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microserviceDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="provider-8002" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microserviceDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="provider-8002" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microserviceDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="provider-8002" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="microservice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microserviceDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="provider-8002" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="microservice" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microserviceDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="provider-8002" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microserviceDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="provider-8002" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="mybatis" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microserviceDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="provider-8002" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microserviceDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="provider-hystrix" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microserviceDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="provider-hystrix" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microserviceDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="provider-hystrix" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microserviceDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="provider-hystrix" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microserviceDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="provider-hystrix" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="microservice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microserviceDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="provider-hystrix" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="microservice" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microserviceDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="provider-hystrix" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="microservice" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microserviceDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="provider-hystrix" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microserviceDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="provider-hystrix" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="mybatis" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microserviceDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="provider-hystrix" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="mybatis" type="462c0819:PsiDirectoryNode" />
+              <item name="mapper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microserviceDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="provider-hystrix" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microserviceDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="zuul" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microserviceDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="zuul" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microserviceDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="zuul" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microserviceDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="zuul" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microserviceDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="zuul" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="microservice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microserviceDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="zuul" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="microservice" type="b2602c69:ProjectViewProjectNode" />
+              <item name="microserviceDemo" type="462c0819:PsiDirectoryNode" />
+              <item name="zuul" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/provider-8001/src/main/resources" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Facets" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.608046" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.microservice" />
+      <recent name="com.microservice.controller" />
+      <recent name="" />
+      <recent name="controller" />
+      <recent name="com.microservice.entity" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\学习\学习资料\SpringCloud学习demo\microserviceDemo\provider-8001\src\main\resources" />
+      <recent name="D:\学习\学习资料\SpringCloud学习demo\microserviceDemo\microservice-Eureka\src\main\resources" />
+      <recent name="D:\学习\学习资料\SpringCloud学习demo\microserviceDemo\config-client\src\main\resources" />
+      <recent name="D:\学习\学习资料\SpringCloud学习demo\microserviceDemo\config-server\src\main\resources" />
+      <recent name="D:\学习\学习资料\SpringCloud学习demo\microserviceDemo\zuul\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Provider8001_APP">
+    <configuration name="Configclient_APP" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="configclient" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.microservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.microservice.Configclient_APP" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Configserver_APP" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="configserver" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.microservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.microservice.Configserver_APP" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Eureka7001_APP" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="microservice-Eureka" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.microservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.microservice.Eureka7001_APP" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Provider8001_APP" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="provider-8001" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.microservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.microservice.Provider8001_APP" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZuulGateway_APP" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="zuul" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.microservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.microservice.ZuulGateway_APP" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.Eureka7001_APP" />
+      <item itemvalue="Spring Boot.ZuulGateway_APP" />
+      <item itemvalue="Spring Boot.Configserver_APP" />
+      <item itemvalue="Spring Boot.Configclient_APP" />
+      <item itemvalue="Spring Boot.Provider8001_APP" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.Provider8001_APP" />
+        <item itemvalue="Spring Boot.Eureka7001_APP" />
+        <item itemvalue="Spring Boot.Configserver_APP" />
+        <item itemvalue="Spring Boot.Configclient_APP" />
+        <item itemvalue="Spring Boot.ZuulGateway_APP" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e4d022cd-9894-440f-91ae-b899e55df967" name="Default Changelist" comment="" />
+      <created>1593326767072</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593326767072</updated>
+      <workItem from="1593326771234" duration="6106000" />
+      <workItem from="1594366402204" duration="22000" />
+      <workItem from="1594367900152" duration="10151000" />
+      <workItem from="1594443382187" duration="18653000" />
+      <workItem from="1594536567272" duration="9439000" />
+      <workItem from="1594631358843" duration="7165000" />
+      <workItem from="1594707686592" duration="3511000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="55047000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4978903" visible="true" weight="0.21983914" />
+      <window_info id="Structure" order="1" sideWeight="0.5021097" side_tool="true" weight="0.19705094" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.33002833" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3286119" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3286119" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.3297587" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="aiXcoder" order="6" weight="0.32872927" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="Bean Validation" order="10" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/provider-8002/src/main/java/com/microservice/controller/DeptController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="37" column="23" selection-start-line="37" selection-start-column="23" selection-end-line="37" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/consumer-8001/src/main/java/com/microservice/Consumer8001_APP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#335#336#0" expanded="true" />
+            <element signature="e#402#403#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/consumer-8001/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1012">
+          <caret line="46" column="19" selection-start-line="13" selection-start-column="4" selection-end-line="46" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microserviceapi/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="21" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/provider-8001/src/main/java/com/microservice/service/DeptServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="11" column="51" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/consumer-8001-feign/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" column="38" selection-start-line="20" selection-start-column="38" selection-end-line="20" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/provider-8001/src/main/java/com/microservice/controller/DeptController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-22">
+          <caret line="51" column="24" selection-start-line="51" selection-start-column="24" selection-end-line="51" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/provider-8001/src/main/java/com/microservice/service/DeptService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/provider-hystrix/src/main/java/com/microservice/service/DeptServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="24" lean-forward="true" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/provider-hystrix/src/main/java/com/microservice/service/DeptService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/provider-hystrix/src/main/java/com/microservice/dao/DeptDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/provider-hystrix/src/main/resources/mybatis/mybatis.cfg.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/provider-hystrix/src/main/resources/mybatis/mapper/DeptMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="41" lean-forward="true" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/provider-8002/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/provider-8002/src/main/resources/mybatis/mybatis.cfg.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/provider-8002/src/main/resources/mybatis/mapper/DeptMapper.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/provider-8001/src/main/java/com/microservice/dao/DeptDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/provider-hystrix/src/main/resources/mybatis.cfg.xml" />
+    <entry file="file://$PROJECT_DIR$/consumer-8001-feign/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/provider-8001/src/main/resources/mybatis/mapper/DeptMapper.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="42" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/provider-8001/src/main/resources/mybatis/mybatis.cfg.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/provider-hystrix/src/main/java/com/microservice/ProviderHystrix_APP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/consumer-8001-feign/src/main/java/com/microservice/Consumer8001Feign_APP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/consumer-8001-feign/src/main/java/com/microservice/controller/DeptController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microserviceapi/src/main/java/com/microservice/service/DeptClientService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microserviceapi/src/main/java/com/microservice/service/DeptClientFallbackFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="28" column="21" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/provider-hystrix/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="22" column="20" selection-start-line="22" selection-start-column="20" selection-end-line="22" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/provider-hystrix/src/main/java/com/microservice/controller/DeptController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="29" column="50" selection-start-line="29" selection-start-column="50" selection-end-line="29" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/com/netflix/zuul/zuul-core/1.3.0/zuul-core-1.3.0.jar!/com/netflix/zuul/ZuulFilter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-198">
+          <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zuul/src/main/java/com/microservice/filter/zuulFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#161#162#0" expanded="true" />
+            <element signature="e#188#189#0" expanded="true" />
+            <element signature="e#234#235#0" expanded="true" />
+            <element signature="e#258#259#0" expanded="true" />
+            <element signature="e#309#310#0" expanded="true" />
+            <element signature="e#337#338#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/provider-hystrix/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="80" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config-server/configserver.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zuul/src/main/java/com/microservice/ZuulGateway_APP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="12" column="16" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zuul/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" column="4" selection-start-line="13" selection-start-column="4" selection-end-line="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zuul/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="8" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config-server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1496">
+          <caret line="68" column="19" selection-start-line="13" selection-start-column="4" selection-end-line="68" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config-client/src/main/java/com/microservice/controller/ConfigController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="434">
+          <caret line="23" column="70" selection-start-line="23" selection-start-column="70" selection-end-line="23" selection-end-column="70" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config-server/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/provider-8001/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="41" column="57" selection-start-line="41" selection-start-column="57" selection-end-line="41" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-Eureka/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config-client/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="30" column="50" selection-start-line="30" selection-start-column="50" selection-end-line="30" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config-server/src/main/java/com/microservice/Configserver_APP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config-client/src/main/java/com/microservice/Configclient_APP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config-client/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config-client/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-Eureka/src/main/java/com/microservice/Eureka7001_APP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="18" lean-forward="true" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/provider-8001/src/main/java/com/microservice/Provider8001_APP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="19" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-Eureka/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/microservice-Eureka/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/provider-8001/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/provider-8001/src/main/resources/bootstrap.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.608046" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>configclient</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.608046" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

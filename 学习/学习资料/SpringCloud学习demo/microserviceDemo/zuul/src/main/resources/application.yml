@@ -1,0 +1,32 @@
+server:
+  port: 9001
+
+spring:
+  devtools:
+    restart:
+      enabled: true  #设置开启热部署
+      additional-paths: src/main/java #重启目录
+      exclude: WEB-INF/**
+  application:
+    name: microservicecloud-gateway # 应用名称
+
+eureka:
+  client: #客户端注册进eureka服务列表内
+    service-url:
+      #defaultZone: http://localhost:7001/eureka
+      # 将该service注册到集群eureka中
+      defaultZone: http://localhost:7001/eureka/,http://localhost:7002/eureka/,http://localhost:7003/eureka/
+    ###是否需要注册到eureka上
+    register-with-eureka: true
+    ###需要检索服务
+    fetch-registry: true
+  instance:
+    instance-id: microservicecloud-gateway   # 在eureka中显示对应的服务名字
+    prefer-ip-address: true     #在eureka中下边的访问路径可以显示IP地址
+
+zuul:
+  routes:
+    deptservice:
+      service-id: microservice-provider
+      path: /provider/**
+  ignored-services: "*"

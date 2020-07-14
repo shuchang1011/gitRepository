@@ -1,0 +1,17 @@
+server:
+  port: 7003
+
+eureka:
+  instance:
+    hostname: localhost  #eureka服务端实例名称
+  client: #客户端注册进eureka服务列表内
+    service-url:
+      #defaultZone: http://localhost:7001/eureka
+      # 将该service注册到集群eureka中
+      defaultZone: http://127.0.0.1:7001/eureka/,http://127.0.0.1:7002/eureka/
+    ###是否需要注册到eureka上，不向注册中心注册自己
+    register-with-eureka: false
+    ###本身就是注册中心，因此不需要检索自己，不需要检索服务
+    fetch-registry: false
+
+

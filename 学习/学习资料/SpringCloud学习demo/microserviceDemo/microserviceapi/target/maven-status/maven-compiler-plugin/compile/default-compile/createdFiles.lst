@@ -1,0 +1,4 @@
+com\microservice\service\DeptClientService.class
+com\microservice\service\DeptClientFallbackFactory$1.class
+com\microservice\entity\Dept.class
+com\microservice\service\DeptClientFallbackFactory.class

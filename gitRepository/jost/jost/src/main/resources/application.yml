@@ -1,0 +1,29 @@
+server:
+  port: 8085
+  servlet:
+    context-path: /jost
+
+  #json 时间戳统一转换
+  jackson:
+    date-format:   yyyy-MM-dd HH:mm:ss
+    time-zone:   GMT+8
+  aop:
+    proxy-target-class: true
+
+HTTP_HOST: navapp.weihansoft.com
+HTTP_USERNAME: navdemo
+JOST_HTTP_USERNAME: administrator
+HTTP_PASSWORD: Wh@2019
+JOST_HTTP_PASSWORD: Weihan2018@
+HTTP_PORT: 7137
+JOST_HTTP_PORT: 7178
+HTTP_PROTOCOL: http
+HTTP_PATH: /AITS_Dev/OData/Company('AITS%20Pre-Test')
+JOST_HTTP_PATH: /JOST/OData/Company('CRONUS%20International%20Ltd.')
+HTTP_TAIL_END: ?$format=json
+JOST_HTTP_TAIL_END: ?$format=json&CRONUS%20International%20Ltd.
+HTTP_HEADER_KEY: odata.etag
+HTTP_DOMAIN: WHCRM
+HTTP_EXTEND: ?company=AITS%20Pre-Test
+APPLICATION_JSON: application/json
+CONTENT_TYPE_TEXT_JSON: text/json

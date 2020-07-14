@@ -1,0 +1,18 @@
+server:
+  port: 3001
+
+spring:
+  devtools:
+    restart:
+      enabled: true  #设置开启热部署
+      additional-paths: src/main/java #重启目录
+      exclude: WEB-INF/**
+  application:
+    name: microservice-config-server # 应用名称
+  cloud:
+    config:
+      server:
+        git:
+          uri: git@github.com:shuchang1011/microservice-config.git
+
+
